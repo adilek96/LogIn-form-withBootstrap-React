@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.input_message {
+  color: red;
+}
+.card {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
